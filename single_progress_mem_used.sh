@@ -1,6 +1,6 @@
 #!/bin/bash
 #auth csa
-#usage: for example ,the qpid progress takes up to use mem: "bash single_progress_mem_used.sh qpidd"
+#usage: for example ,the python progress takes up to use mem: "bash single_progress_mem_used.sh python"
 #实现程序单进程或多进程内存使用情况查看，和模糊匹配查某一类进程使用内存情况
 
 daemon_name="$1"
