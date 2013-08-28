@@ -5,3 +5,4 @@
 #脚本tmux_attach_remotehost_teacher.sh是运行在teacher的机器上的，脚本tmux_attach_remotehost_students.sh 运行在students机器上的
 #需要注意一个问题：要保证这两个脚本student用户的密码一致
 
+#在老师的机器上执行tmux_attach_remotehost_teacher.sh脚本，在学生的机器上执行tmux_attach_remotehost_students.sh
