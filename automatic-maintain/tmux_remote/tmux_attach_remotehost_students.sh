@@ -17,4 +17,4 @@ expect_func(){
 EOF
 }
 
-expect_func "ssh $USER@10.7.201.221"
+expect_func "ssh $USER@$TEACHER_IP"
