@@ -1,0 +1,7 @@
+#运行环境ubuntu 10.04
+#老师相当于server端，students相当于client端
+#老师演示需要学生登入他的机器上看其演示，这里我们用tmux 实现ssh远程登入老师机器自动进入创建的某个会话
+#当然老师在演讲，学生不能捣乱，所以禁止学生做任何操作
+#脚本tmux_attach_remotehost_teacher.sh是运行在teacher的机器上的，脚本tmux_attach_remotehost_students.sh 运行在students机器上的
+#需要注意一个问题：要保证这两个脚本student用户的密码一致
+
