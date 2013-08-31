@@ -1,0 +1,6 @@
+#employee-name:employee-id:department-name
+Tom Thomas:20:Marketing
+Mary Li:21:Sales
+Lucy Le:22:Product Development
+Sanjay Gupta:23:Support
+Nisha Singh:24:Sales
